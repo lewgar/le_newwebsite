@@ -89,6 +89,7 @@ moon:
   social:
     Twitter: "https://twitter.com/"
     GitHub: "https://github.com/lewgar"
+    CSDN: "https://blog.csdn.net/your_username"
   # Disqus Comments
   disqus:
     shortname: your-disqus-shortname
