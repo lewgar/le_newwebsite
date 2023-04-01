@@ -1,6 +1,7 @@
 # Site
 title:              lewgarben的网站
-bio:                'Minimal, one column jekyll theme.'
+#bio:                'Minimal, one column jekyll theme.'
+bio:                'hello world'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -40,7 +41,7 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            username
 facebook:           username
-github-url:         lewgar
+github-url:         username1
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
