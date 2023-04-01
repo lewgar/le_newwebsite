@@ -74,4 +74,23 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
-remote_theme: Moon
+# remote_theme: Moon
+# Moon Theme Configuration
+moon:
+  # Navigation Links
+  links:
+    Home: "/"
+    Archives: "/archives"
+    Categories: "/categories"
+    Tags: "/tags"
+    About: "/about"
+  # Social Links
+  social:
+    Twitter: "https://twitter.com/yourusername"
+    GitHub: "https://github.com/yourusername"
+  # Disqus Comments
+  disqus:
+    shortname: your-disqus-shortname
+  # Google Analytics
+  google_analytics: your-google-analytics-tracking-id
+
