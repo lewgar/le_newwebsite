@@ -96,4 +96,6 @@ moon:
     shortname: your-disqus-shortname
   # Google Analytics
   google_analytics: your-google-analytics-tracking-id
+  cdn:
+  fontawesome: https://cdn.bootcdn.net/ajax/libs/font-awesome/5.15.4/css/all.min.css
 
